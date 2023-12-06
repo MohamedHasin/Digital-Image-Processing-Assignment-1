@@ -39,6 +39,7 @@ Improvement that can be made:
 - Use simpler comments and make the code more neat
 - The overlayed “talking.mp4” video can be positioned better
 - The borders of the overlayed “talking.mp4” video can be thinner
+- All the processed videos can be added into a new folder instead of creating new files and overloading the existing directory
 
 Other: 
 
